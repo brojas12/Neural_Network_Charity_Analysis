@@ -27,6 +27,8 @@
 
         The EIN and NAME columns are neither targets nor features and should be removed from 
         the input data.
+        
+![](Resources/model_q1.PNG)
 
 *Compiling, Training, and Evaluating the Model*
 
